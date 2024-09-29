@@ -1,4 +1,5 @@
 # TransMix
+### previously hosted as (https://github.com/junaiddk/transmix)
 This code repository implements the method presented in "*TransMix: Transformer-based Value Function Decomposition for Cooperative Multi-agent Reinforcement Learning*". This repo is based on [PyMARL](https://github.com/oxwhirl/pymarl) and [SMAC](https://github.com/oxwhirl/smac) codebases which are open-sourced. 
 The TransMix specific implementation is in the *src/modules/mixers*. Other algorithms available in this repo are:
 
